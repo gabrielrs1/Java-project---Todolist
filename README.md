@@ -1,0 +1,1 @@
+Create environment with [https://www.notion.so/Curso-de-Java-7b2527ad60304f56a1c6037b79e17c94?pvs=4]
